@@ -30,4 +30,8 @@
 
 # GeekBrainsLesson3
 
-12344
+
+
+> git clone - clone repository
+ 
+ >fork - создание независимого репозитория
