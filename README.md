@@ -1,4 +1,4 @@
-# GitCommand 
+# GitCommands
 ***
 ## GeekBrainsLesson1
 >git init – инициализация локального репозитория
@@ -14,6 +14,16 @@
 
 >git diff – увидеть разницу между текущим файлом и закоммиченным файлом
 
+## GeekBrainsLesson2
+***
+
+> git branch (имя ветки) - создаем новую ветку с именем. 
+
+> git branch - вызываем список всех веток
+
+> git checkout - переключение между ветками
+
+> git checkout master – возврат к актуальному состоянию и продолжить работу
 
 
 # GeekBrainsLesson3
