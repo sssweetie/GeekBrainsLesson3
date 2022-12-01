@@ -26,8 +26,7 @@
 > git checkout master – возврат к актуальному состоянию и продолжить работу
 
 
+
+
 # GeekBrainsLesson3
 
-> git clone - clone repository
- 
- >fork - создание независимого репозитория
