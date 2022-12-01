@@ -31,6 +31,8 @@
 
 > git branch -d (имя ветки) - удаление ветки
 
+22
+
 
 
 # GeekBrainsLesson3
