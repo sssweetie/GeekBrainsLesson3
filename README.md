@@ -29,6 +29,9 @@
 
 >git log --graph - визуализация веток и коммитов
 
+> git branch -d (имя ветки) - удаление ветки
+
+
 
 # GeekBrainsLesson3
 
