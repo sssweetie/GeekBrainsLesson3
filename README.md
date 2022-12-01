@@ -34,6 +34,9 @@
 llll
 
 
+> git branch -d (имя ветки) - удаление ветки
+
+
 
 # GeekBrainsLesson3
 
