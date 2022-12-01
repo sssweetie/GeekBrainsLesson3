@@ -1,9 +1,8 @@
 # GeekBrainsLesson3
 
-> git clone - clone repository
+** git clone** - скопировать удаленный репозиторий себе в папку, создав локальный репозиторий по содержанию на момент копирования идентичный удаленному.
 
-hello hello my little friend
-id like to talk to you again
-because the vision softly creeping
-left its seeds while I was sleeping
-and the vision that was planted in my brain
+**git push** - отправить обновления из локального репозитория в удаленный;
+**git pull** - "стянуть" обновление из удаленного репозитория в локальный;
+**fork** - скопировать чужой удаленный репозиторий в свой удаленный репозиторий;
+**pull request** - направить запрос на внесение своих изменений в чужой репозиторий.
